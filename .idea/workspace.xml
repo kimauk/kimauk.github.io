@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6544cb2-8c6d-4645-85ea-7073cb5cb931" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/file/paper/DriverInterruptibility.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/DrivingPoster.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/DrivingPosterPaper.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/HelloBot.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/LearningToBeBetter.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/LetsPic.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/LetsPicSlide.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/MemorablePhotoPaper.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/MemorablePhotoPoster.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/PhotoSharing.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/SharingGamePapere.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/SharingGamePoster.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/paper/UnderstandingCustomer.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1077">
-              <caret line="341" column="39" lean-forward="true" selection-start-line="341" selection-start-column="39" selection-end-line="341" selection-end-column="39" />
+            <state relative-caret-position="571">
+              <caret line="318" lean-forward="true" selection-start-line="318" selection-end-line="318" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#td#1;n#tr#3;n#tbody#0;n#table#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -110,16 +97,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573906968842</updated>
-      <workItem from="1573906971807" duration="3619000" />
+      <workItem from="1573906971807" duration="3713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3619000" />
+    <option name="totallyTimeSpent" value="3713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-483" y="-1440" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -187,8 +173,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1077">
-          <caret line="341" column="39" lean-forward="true" selection-start-line="341" selection-start-column="39" selection-end-line="341" selection-end-column="39" />
+        <state relative-caret-position="571">
+          <caret line="318" lean-forward="true" selection-start-line="318" selection-end-line="318" />
           <folding>
             <element signature="n#style#0;n#span#0;n#td#1;n#tr#3;n#tbody#0;n#table#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
