@@ -1,0 +1,80 @@
+
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+html {
+	height: 100%;
+}
+
+body {
+	position: relative;
+	padding-top: 100px;
+	padding-bottom: 80px;
+	font-size: 14px;
+	line-height: 1.8;
+	background-color: #ffffff;
+	min-height: 100%;
+	color: #000000;
+}
+
+a.navbar-brand {
+	/* font-family: 'Permanent Marker', cursive; */
+	font-size: 24px;
+	font-weight: 600;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+a.nav-link.active {
+	font-weight: 600;
+}
+
+p {
+	text-align: justify;
+}
+
+h5 {
+	font-weight: 600;
+}
+
+.container {
+	max-width: 1024px;
+}
+
+.activity_img {
+	background-size: cover;
+	background-position: center center;
+	height:250px;
+	border-style:solid;
+	border-color: #ffffff;
+	border-width: 3px;
+}
+
+.bg-light {
+    border-color: #ffffff;
+}
+
+.table th,
+.table td {
+	border-color: #ffffff;
+}
+.table thead th {
+	border-bottom: #ffffff;
+}
+.table td.year {
+	padding-left: 0px;
+}
+.table td.publication {
+	padding-right: 0px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0px;
+	height: 60px;
+	width: 100%;
+	font-size: 14px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	background-color:#fcfcfc;
+	border-top: 1px solid #e0e0e0;
+}
