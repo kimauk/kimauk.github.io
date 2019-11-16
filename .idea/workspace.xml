@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6544cb2-8c6d-4645-85ea-7073cb5cb931" name="Default Changelist" comment="" />
+    <list default="true" id="f6544cb2-8c6d-4645-85ea-7073cb5cb931" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/file/paper/DriverInterruptibility.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/DrivingPoster.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/DrivingPosterPaper.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/HelloBot.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/LearningToBeBetter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/LetsPic.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/LetsPicSlide.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/MemorablePhotoPaper.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/MemorablePhotoPoster.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/PhotoSharing.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/SharingGamePapere.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/SharingGamePoster.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/paper/UnderstandingCustomer.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +28,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="813">
+              <caret line="329" column="46" lean-forward="true" selection-start-line="329" selection-start-column="46" selection-end-line="329" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#td#1;n#tr#3;n#tbody#0;n#table#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,6 +50,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-483" />
+    <option name="y" value="-1440" />
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
@@ -66,7 +86,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,15 +110,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573906968842</updated>
-      <workItem from="1573906971807" duration="351000" />
+      <workItem from="1573906971807" duration="3558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="351000" />
+    <option name="totallyTimeSpent" value="3558000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="-483" y="-1440" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -106,7 +126,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1624305" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.50493824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -130,6 +150,36 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.50493824" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -137,8 +187,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="813">
+          <caret line="329" column="46" lean-forward="true" selection-start-line="329" selection-start-column="46" selection-end-line="329" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#td#1;n#tr#3;n#tbody#0;n#table#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
