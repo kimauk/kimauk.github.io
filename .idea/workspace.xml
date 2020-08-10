@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6544cb2-8c6d-4645-85ea-7073cb5cb931" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file/paper/IMWUT20_smartspeaker.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -25,6 +24,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -60,6 +60,8 @@
       <workItem from="1587688285357" duration="44000" />
       <workItem from="1592648816110" duration="2068000" />
       <workItem from="1596016038922" duration="200000" />
+      <workItem from="1596687547292" duration="113000" />
+      <workItem from="1596687711136" duration="460000" />
     </task>
     <servers />
   </component>
