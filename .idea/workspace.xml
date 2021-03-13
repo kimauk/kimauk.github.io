@@ -89,6 +89,10 @@
       <workItem from="1611822620800" duration="658000" />
       <workItem from="1612498016813" duration="33000" />
       <workItem from="1614864904712" duration="2014000" />
+      <workItem from="1615342240653" duration="11000" />
+      <workItem from="1615357524563" duration="298000" />
+      <workItem from="1615519672399" duration="6000" />
+      <workItem from="1615602420086" duration="209000" />
     </task>
     <servers />
   </component>
@@ -109,12 +113,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="968" y="463" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602293781435">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="968" y="463" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1602293781434" />
   </component>
   <component name="masterDetails">
     <states>
