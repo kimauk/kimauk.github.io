@@ -21,6 +21,7 @@
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 
 <script src="./js/custom.js" type="text/javascript"></script>
+<script src="./js/publication.js" type="text/javascript"></script>
 <link href="./css/bootstrap-simplex.css" rel="stylesheet"/>
 <!--http://bootswatch.com/simplex/-->
 <link href="./css/style.css" rel="stylesheet"/>
@@ -95,6 +96,15 @@
 				<p>* Google Scholar: <a href="https://scholar.google.co.kr/citations?user=sI0qT0MAAAAJ&hl=en" target="_blank">https://scholar.google.co.kr/citations?user=sI0qT0MAAAAJ&hl=en</a></p>
 
 				<br>
+				<h5>Types</h5>
+
+				<nav aria-label="...">
+					<ul class="pagination" id="paper-types">
+						<li class="page-item active"><a class="page-link" href="#">All</a></li>
+					</ul>
+				</nav>
+
+				<br>
 				<p> Corresponding Author +</p>
 				<br>
 
@@ -102,14 +112,14 @@
 				<table class="table table-hover">
 					<tbody>
 					<tr>
-						<td class="publication">
+						<td class="publication" paper-type="conference">
 							<a href="https://chi2022.acm.org/" target="_blank">
 								<span class="text-primary">"Understanding Emotion Changes in Mobile Experience Sampling"</span></a>
 							<span style="float:right;">
 													<a class="btn btn-outline-info btn-sm" href="./file/paper/CHI22_ESM.pdf" role="button" target="_blank">PDF</a>
 												</span>
 							<br>
-							<em>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’22) (Accepted, will published on Apr 2022)</em><br>
+							<em>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’22) (to appear)</em><br>
 							Soowon Kang, Cheul Young Park, Narae Cha, <strong>Auk Kim +</strong>, Uichin Lee +.
 						</td>
 					</tr>
@@ -122,7 +132,7 @@
 				<table class="table table-hover">
 					<tbody>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="journal">
 								<a href="https://www.frontiersin.org/articles/10.3389/fpubh.2021.586615/full" target="_blank">
 									<span class="text-primary">"Benefits of Mobile Contact Tracing on COVID-19: Tracing Capacity Perspectives"</span></a>
 								<span style="float:right;">
@@ -134,7 +144,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a href="./" target="_blank">
 									<span class="text-primary">"Sticky Goals: Understanding Goal Commitments for Behavioral Changes in the Wild"</span></a>
 								<span style="float:right;">
@@ -154,7 +164,7 @@
 				<table class="table table-hover">
 					<tbody>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="journal">
 								<a href="https://www.nature.com/articles/s41597-020-00630-y" target="_blank">
 									<span class="text-primary">"K-EmoCon, a multimodal sensor dataset for continuous emotion recognition in naturalistic conversations."</span></a>
 								<span style="float:right;">
@@ -166,7 +176,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a href="https://doi.org/10.1145/3411810" target="_blank">
 									<span class="text-primary">"“Hello There! Is Now a Good Time to Talk?”: Opportune Moments for Proactive Interactions with Smart Speakers."</span></a>
 								<span style="float:right;">
@@ -178,7 +188,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="poster">
 								<a href="./file/paper/ICTC20_FlowControl.pdf" target="_blank">
 									<span class="text-primary">"Towards Flow Control of Driver-Vehicle Interactions."</span></a>
 								<span style="float:right;">
@@ -190,7 +200,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="journal">
 								<a href="https://www.frontiersin.org/articles/10.3389/fpubh.2020.00305/full" target="_blank">
 									<span class="text-primary">"Too Much Information: Assessing Privacy Risks of Contact Trace Data Disclosure on People With COVID-19 in South Korea."</span></a>
 								<span style="float:right;">
@@ -203,7 +213,7 @@
 						</tr>
 						<tr>
 
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a href="https://dl.acm.org/doi/abs/10.1145/3381009" target="_blank">
 									<span class="text-primary">"Interruptibility for In-vehicle Multitasking: Influence of Voice Task Workload and Adaptive Behaviors."</span></a>
 								<span style="float:right;">
@@ -215,7 +225,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10402874" target="_blank">
 									<span class="text-primary">"스마트 스피커의 선제적 상호작용 적절 시점에 대한 이해 (Opportune Moments for Proactive Interactions with Smart Speakers)."</span></a>
 								<span style="float:right;">
@@ -227,7 +237,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10402723" target="_blank">
 									<span class="text-primary">"경험표집법을 통해 수집한 감정 데이터 가변성에 대한 이해 (Understanding Variability of Mood Collected by Experience Sampling Method)."</span></a>
 								<span style="float:right;">
@@ -247,7 +257,7 @@
 				<table class="table table-hover">
 					<tbody>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="journal">
 								<a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131519301034" target="_blank">
 									<span class="text-primary">"Learning to be Better at the game: Performance vs. completion contingent reward for game-based learning."</span></a>
 								<span style="float:right;">
@@ -259,7 +269,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="poster">
 								<a href="https://dl.acm.org/citation.cfm?id=3343841" target="_blank">
 									<span class="text-primary">"Predicting Opportune Moments for In-vehicle Proactive Speech Services."</span></a>
 								<span style="float:right;">
@@ -279,7 +289,7 @@
 				<table class="table table-hover">
 					<tbody>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a href="https://dl.acm.org/citation.cfm?id=3287053" target="_blank">
 									<span class="text-primary">"Interrupting Drivers for Interactions: Predicting Opportune Moments for In-vehicle Proactive Auditory-verbal Tasks."</span></a>
 								<span style="float:right;">
@@ -291,7 +301,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="poster">
 								<a href="https://dl.acm.org/citation.cfm?id=3267616" target="_blank">
 									<span class="text-primary">"HelloBot: Facilitating Social Inclusion with an Interactive Greeting Robot."</span></a>
 								<span style="float:right;">
@@ -303,7 +313,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="poster">
 								<a href="https://dl.acm.org/citation.cfm?id=3267625" target="_blank">
 									<span class="text-primary">"Understanding Customers' Interests in the Wild."</span></a>
 								<span style="float:right;">
@@ -323,7 +333,7 @@
 				<table class="table table-hover">
 					<tbody>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a href="https://dl.acm.org/citation.cfm?id=3025693" target="_blank">
 									<span class="text-primary">"LetsPic: Supporting In-situ Collaborative Photography over a Large Physical Space."</span></a>
 								<span style="float:right;">
@@ -335,7 +345,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="poster">
 								<a href="https://dl.acm.org/citation.cfm?id=3053199" target="_blank">
 									<span class="text-primary">"It's More than Just Sharing Game Play Videos! Understanding User Motives in Mobile Game Social Media."</span></a>
 								<span style="float:right;">
@@ -347,7 +357,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="poster">
 								<a href="https://dl.acm.org/citation.cfm?id=3053198" target="_blank">
 									<span class="text-primary">"Sensors Know Which Photos Are Memorable."</span></a>
 								<span style="float:right;">
@@ -367,7 +377,7 @@
 				<table class="table table-hover">
 					<tbody>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="journal">
 								<a href="https://www.sciencedirect.com/science/article/pii/S0747563216303119" target="_blank">
 									<span class="text-primary">"Comfortable with friends sharing your picture on Facebook? - Effects of closeness and ownership on picture sharing preference."</span></a>
 								<span style="float:right;">
@@ -387,7 +397,7 @@
 				<table class="table table-hover">
 					<tbody>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a href="https://dl.acm.org/citation.cfm?id=3025693" target="_blank">
 									<span class="text-primary">"Photo Sharing of the Subject, by the Owner, for the Viewer – Examining the Subject’s Preference."</span></a>
 								<span style="float:right;">
@@ -399,7 +409,7 @@
 							</td>
 						</tr>
 						<tr>
-							<td class="publication">
+							<td class="publication" paper-type="conference">
 								<a><span class="text-primary">Maintaining Optimal Difficulty in Video Lecture through Real-Time Physiological Feedback.</span></a>
 								<span style="float:right;">
 										<a></a>
