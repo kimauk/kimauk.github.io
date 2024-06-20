@@ -53,5 +53,18 @@ $(document).ready(function(){
 		$("#paper-types>li:first-child").addClass('active');
 	});
 
+	$('[pdf]').each((index, item)=>{
 
+		pdf_href = $(item).attr('pdf');
+		video_href = $(item).attr('video');
+		if(pdf_href) $(item).append($('<a>')
+			.addClass('btn btn-outline-info btn-sm')
+			.attr({'href': pdf_href,'role':'button','target':'_blank'})
+			.text('PDF'));
+		
+		if(video_href) $(item).append($('<a>')
+			.addClass('btn btn-outline-danger btn-sm')
+			.attr({'href': video_href,'role':'button','target':'_blank'}).css('margin-left','5px')
+			.text('VIDEO'));
+	});
 });
