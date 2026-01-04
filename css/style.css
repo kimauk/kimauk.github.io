@@ -36,6 +36,10 @@ h5 {
 	font-weight: 600;
 }
 
+.profile_image {
+    border-radius: 25px 0 0 0;
+}
+
 .container {
 	max-width: 1024px;
 }
@@ -53,7 +57,7 @@ h5 {
     border-color: #ffffff;
 }
 
-.table th,
+.table th, 
 .table td {
 	border-color: #ffffff;
 }
